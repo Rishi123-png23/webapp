@@ -2,7 +2,7 @@ import requests
 import streamlit as st
 from PIL import Image
 import streamlit as st
-from streamlit_option_menu import option_menu
+#from streamlit_option_menu import option_menu
 
 #  find more emojis here : https://www.webfx.com/tools/emoji-cheat-sheet/
 st.set_page_config(page_title = "VJIT/RISHI_JRK" , page_icon ="https://vjit.ac.in/campus-life/clubs/#",layout = "wide")
