@@ -87,7 +87,7 @@ if selected == "home":
                     st.subheader(" NOTE : YOUR FORM WILL BE SEND TO OUR OFFICIAL VJIT MAIL WITH YOUR DETAILS , SO ONLY IMPORTANT FORMS ARE ALLOWED TO BE SENT.")
 
                     contact_form = """
-     <form action="https://formsubmit.co/bittuoggu1@gmail.com" method="POST">
+     <form action="https://formsubmit.co/vjitstudentshelpdesk@gmail.com" method="POST">
      <input type = "hidden" name ="_captcha" value = "false">
      <input type="text" name="name" placeholder = "your name" required>
      <input type="email" name="email" placeholder = "your email" required>
